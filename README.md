@@ -1,12 +1,9 @@
 CALCULATOR APP :
 
-HTML:
-
-The calculator layout is created using an input field for the display and buttons for numbers and operations.
+HTML: The calculator layout is created using an input field for the display and buttons for numbers and operations.
 Buttons are organized in a grid layout for easy interaction.
 
-CSS:
-The calculator is styled with a clean and modern look, centered on the page.
+CSS: The calculator is styled with a clean and modern look, centered on the page.
 Buttons have hover and active states to give feedback when clicked.
 
 JavaScript:
