@@ -18,6 +18,7 @@ Functionality: Add more features, like handling more complex operations, using p
 This project gives a good starting point for building and understanding the basics of web development with HTML, CSS, and JavaScript.
 
 IMAGE GALLERY :
+
 HTML: 
 The gallery is set up using div elements for each image. When a user clicks on an image, the modal opens and displays the full-size image.
 
@@ -32,6 +33,7 @@ Styling: Adjust the CSS for different layouts or visual effects.
 Features: Extend the JavaScript to add features like automatic slideshow, thumbnails, or captions for each image.
 
 MUSIC PLAYER 
+
 HTML (index.html):
 Defines the structure of the music player, including buttons and audio elements.
 
